@@ -10,7 +10,7 @@
 </h2>
 
 <h2 align="center"> 
-	🚧  Status: 🚀 Em construção...  🚧
+	 ⚠️ Status: 🚧 Em construção... 🔨 🚧
 </h2>
 
 <h3 align="left">🚀 Estrutura do projeto:</h3>
