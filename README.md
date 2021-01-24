@@ -33,5 +33,4 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://www.javascript.com/)
