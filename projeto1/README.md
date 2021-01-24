@@ -2,9 +2,6 @@
 PROJETO - PROGRAMA FINANCEIRO
 </h2>
 
-![GitHub language count](https://img.shields.io/github/languages/count/julianapedroso/repositorio-teste)
-![GitHub top language](https://img.shields.io/github/languages/top/julianapedroso/repositorio-teste) 
-
 <h4 align='center'>
 👉 Status: 🚧 Em construção... 🚧
 </h4>
