@@ -1,10 +1,6 @@
 # Repositório para testes de projetos 
 <p align="left">Aplicação de testes de projetos pessoais, a fim de gerar um portfólio futuramente.</p>
 
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 README</a>   
-</h1>
-
 <h2 align="center">
     <img src="https://img.shields.io/github/languages/count/julianapedroso/repositorio-teste"> 
 </h2>
