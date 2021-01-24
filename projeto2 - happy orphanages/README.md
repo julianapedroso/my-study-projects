@@ -1,4 +1,6 @@
-# PROJETO - HAPPY | ORPHANAGES 👧👦
+<h2 align='center'> 
+PROJETO - HAPPY | ORPHANAGES 👧👦
+</h2>
 
 
 <h4 align='center'>
