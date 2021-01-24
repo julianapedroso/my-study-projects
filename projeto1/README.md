@@ -1,6 +1,4 @@
-## PROJETO - PROGRAMA FINANCEIRO
-
-<hr />
+# PROJETO - PROGRAMA FINANCEIRO
 
 <h4 align='center'>
 👉 Status: 🚧 Em construção... 🚧
