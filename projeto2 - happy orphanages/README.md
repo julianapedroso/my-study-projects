@@ -22,7 +22,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 - CSS
 
 ### 🛠 Ferramentas:
-As seguintes ferramentas foram usadas na construção do projeto:
+- [Figma](https://www.figma.com/)
 
 ### 📷 Prints:
 
