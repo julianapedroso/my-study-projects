@@ -9,25 +9,3 @@
 <h2 align="center"> 
 	 ⚠️ Status: 🚧 Em construção... 🔨 🚧
 </h2>
-
-<h3 align="left">🚀 Estrutura do projeto:</h3>
-
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
-
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [JavaScript](https://www.javascript.com/)
