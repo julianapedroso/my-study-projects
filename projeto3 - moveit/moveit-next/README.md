@@ -17,7 +17,8 @@
 ### 💻 Tecnologias:
 As seguintes tecnologias foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
-- [JavaScript](https://www.javascript.com/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ### 🛠 Ferramenta:
 - [Figma](https://www.figma.com/file/i5hKT4AaYnrkky9mLl6LKf/Move.it-1.0-(Copy)?node-id=160%3A2761)
