@@ -1,3 +1,4 @@
+import Cookies from "js-cookie";
 import { createContext, useState, ReactNode, useEffect } from "react";
 import challenges from "../../challenges.json";
 
@@ -21,14 +22,24 @@ interface ChallengesContextData {
 
 interface ChallengesProviderProps {
   children: ReactNode;
+  level: number;
+  currentExperience: number;
+  challengesCompleted: number;
 }
 
 export const ChallengesContext = createContext({} as ChallengesContextData);
 
-export const ChallengesProvider = ({ children }: ChallengesProviderProps) => {
-  const [level, setLevel] = useState(1);
-  const [currentExperience, setCurrentExperience] = useState(0);
-  const [challengesCompleted, setChallengeCompleted] = useState(0);
+export const ChallengesProvider = ({
+  children,
+  ...rest
+}: ChallengesProviderProps) => {
+  const [level, setLevel] = useState(rest.level ?? 1);
+  const [currentExperience, setCurrentExperience] = useState(
+    rest.currentExperience ?? 0
+  );
+  const [challengesCompleted, setChallengeCompleted] = useState(
+    rest.challengesCompleted ?? 0
+  );
 
   const [activeChallenge, setActiveChallenge] = useState(null);
 
@@ -37,6 +48,12 @@ export const ChallengesProvider = ({ children }: ChallengesProviderProps) => {
   useEffect(() => {
     Notification.requestPermission();
   }, []);
+
+  useEffect(() => {
+    Cookies.set("level", String(level));
+    Cookies.set("currentExperience", String(currentExperience));
+    Cookies.set("challengesCompleted", String(challengesCompleted));
+  }, [level, currentExperience, challengesCompleted]);
 
   const levelUp = () => {
     setLevel(level + 1);
@@ -50,7 +67,6 @@ export const ChallengesProvider = ({ children }: ChallengesProviderProps) => {
     new Audio("./notification.mp3").play();
 
     if (Notification.permission === "granted") {
-      // alert(`Novo desafio 🎉 | Valendo ${challenge.amount} xp`)
       new Notification("Novo desafio 🎉", {
         body: `Valendo ${challenge.amount} xp`,
       });
