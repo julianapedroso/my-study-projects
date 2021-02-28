@@ -33,6 +33,10 @@ As seguintes tecnologias foram usadas na construção do projeto:
 https://moveit-v1-julianapedroso.vercel.app/
 
 ### 📷 Prints:
- 
+<img src="https://user-images.githubusercontent.com/68782453/109425603-cb3a9900-79c7-11eb-955a-7213055a2b9d.png" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/68782453/109426597-43578d80-79cd-11eb-8542-e5bda9492f00.png" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/68782453/109426613-50747c80-79cd-11eb-82b8-6f75f3e4ad6b.png" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/68782453/109426624-5ff3c580-79cd-11eb-958a-7c89eb63375b.png" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/68782453/109425634-f1603900-79c7-11eb-930e-bd6ea0d9f347.png" width="90%"></img> 
 
 <hr />
