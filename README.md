@@ -6,6 +6,6 @@
 </h2>
 
 
-<h2 align="center"> 
+<h3 align="center"> 
 	 ⚠️ Status: 🚧 Em construção... 🔨 🚧
-</h2>
+</h3>
