@@ -7,6 +7,9 @@
 </h4>
 <hr />
 
+### ☁️ Deploy:
+https://moveit-v1-julianapedroso.vercel.app/
+
 ### ✨ Funcionamento:
 - [x] Cronômetro com ciclo de 25'
 - [x] Funcionalidade de interromper ciclo 
@@ -24,15 +27,10 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ### 🛠 Ferramenta:
 - [Figma](https://www.figma.com/file/i5hKT4AaYnrkky9mLl6LKf/Move.it-1.0-(Copy)?node-id=160%3A2761)
-
-### ☁️ Deploy:
 - [Vercel](https://vercel.com/)
 
 ### 🎨 Layout:
 - CSS
-
-### 🔗 Link da aplicação:
-https://moveit-v1-julianapedroso.vercel.app/
 
 ### 📷 Prints:
 <img src="https://user-images.githubusercontent.com/68782453/109425603-cb3a9900-79c7-11eb-955a-7213055a2b9d.png" width="90%"></img> 
