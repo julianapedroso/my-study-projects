@@ -1,4 +1,6 @@
-# MOVEIT 🏃⏰
+<h1 align='center'>
+  <img src="https://raw.githubusercontent.com/julianapedroso/repositorio-teste/2a6e6f9820c6006a478830cf251f1ee852e5d404/projeto3%20-%20moveit/moveit-next/public/logo-full.svg" alt="Logo Move.it"/>
+</h1>
 
 <h4 align='center'>
 👉 Status: Concluído ✔️👏
