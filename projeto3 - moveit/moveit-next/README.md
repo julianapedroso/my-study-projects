@@ -25,7 +25,8 @@ As seguintes tecnologias foram usadas na construção do projeto:
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-### 🛠 Ferramenta:
+### 🛠 Ferramentas:
+As seguintes ferramentas foram usadas na construção do projeto:
 - [Figma](https://www.figma.com/file/i5hKT4AaYnrkky9mLl6LKf/Move.it-1.0-(Copy)?node-id=160%3A2761)
 - [Vercel](https://vercel.com/)
 
